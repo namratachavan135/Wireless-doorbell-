@@ -30,3 +30,5 @@ If accepted, a fix will be released as soon as possible
 If declined, a clear explanation will be provided
 
 Please do not publicly disclose security issues before they are fixed.
+
+Happy Coding_______(::)
